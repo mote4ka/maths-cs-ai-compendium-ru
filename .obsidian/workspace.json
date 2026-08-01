@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "f428d322bbf5d741",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e696f1b467888af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b6147b49905f4e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "643bd75328ed6022",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fafe780c7abf735",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e9b638b75f8a4c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "e2cdac9795896045",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "9778417d2a9b19bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81c23710b8f053bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "88a63b806d9af44b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0535cd8788a56384",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "a9cbbca36892fd69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "6c7d93918378ee9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "02d554ef9bc5323a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "83fb54cd8ba0cac6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "1e9b638b75f8a4c1",
+  "lastOpenFiles": [
+    "chapter 03 - calculus/eng/05. optimisation.md",
+    "chapter 03 - calculus/ru/05. optimisation.md",
+    "chapter 03 - calculus/ru/04. function_approximation.md",
+    "chapter 03 - calculus/eng/04. function approximation.md",
+    "chapter 03 - calculus/ru/03. multivariate_calculus.md",
+    "chapter 03 - calculus/eng/03. multivariate calculus.md",
+    "chapter 03 - calculus/ru/02. integral_calculus.md",
+    "chapter 03 - calculus/eng/02. integral calculus.md",
+    "chapter 03 - calculus/ru/01. differential_calculus.md",
+    "chapter 03 - calculus/eng/01. differential calculus.md",
+    "chapter 03 - calculus/ru",
+    "chapter 03 - calculus/Новая папка",
+    "chapter 03 - calculus/eng"
+  ]
+}
