@@ -279,14 +279,14 @@ server.registerTool(
         const lines = content.split("\n");
 
         for (let i = 0; i < lines.length; i++) {
-          const openMatch = lines[i].match(/^```(\w*)$/);
+          const openMatch = lines[i].match(/^$$(\w*)$/);
           if (!openMatch) continue;
 
           const lang = openMatch[1] || "text";
           if (language && lang !== language) continue;
 
           let end = i + 1;
-          while (end < lines.length && lines[end] !== "```") end++;
+          while (end < lines.length && lines[end] !== "$$") end++;
 
           const code = lines.slice(i + 1, end).join("\n");
           if (!code.trim()) continue;

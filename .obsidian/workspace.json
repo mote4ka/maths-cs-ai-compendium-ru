@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter 02 - matrices/eng/02. matrix types.md",
+                "file": "chapter 02 - matrices/eng/01. matrix properties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. matrix types"
+              "title": "01. matrix properties"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter 02 - matrices/eng/02. matrix types.md",
+                "file": "chapter 02 - matrices/eng/01. matrix properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 02. matrix types"
+              "title": "Обратные ссылки для 01. matrix properties"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapter 02 - matrices/eng/02. matrix types.md",
+                "file": "chapter 02 - matrices/eng/01. matrix properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 02. matrix types"
+              "title": "Исходящие ссылки из 01. matrix properties"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapter 02 - matrices/eng/02. matrix types.md",
+                "file": "chapter 02 - matrices/eng/01. matrix properties.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 02. matrix types"
+              "title": "Структура 01. matrix properties"
             }
           }
         ]
@@ -185,10 +185,10 @@
   },
   "active": "6b6147b49905f4e1",
   "lastOpenFiles": [
-    "chapter 02 - matrices/eng/01. matrix properties.md",
-    "chapter 02 - matrices/eng/02. matrix types.md",
-    "chapter 02 - matrices/ru/02. matrix_types.md",
     "chapter 02 - matrices/ru/01. matrix_properties.md",
+    "chapter 02 - matrices/eng/02. matrix types.md",
+    "chapter 02 - matrices/eng/01. matrix properties.md",
+    "chapter 02 - matrices/ru/02. matrix_types.md",
     "chapter 01 - vectors/eng/05. basis and duality.md",
     "chapter 01 - vectors/eng/04. products.md",
     "chapter 01 - vectors/eng/03. norms and metrics.md",

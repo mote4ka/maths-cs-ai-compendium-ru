@@ -67,7 +67,7 @@ This worked really well for my friends who were not very confident. In fact, one
 Read the GitHub profile! 
 
 ## Citation
-```bibtex
+$$bibtex
 @book{ndubuaku2025compendium,
   title     = {Maths, CS & AI Compendium},
   author    = {Henry Ndubuaku},
@@ -75,4 +75,4 @@ Read the GitHub profile!
   publisher = {GitHub},
   url       = {https://github.com/HenryNdubuaku/maths-cs-ai-compendium}
 }
-```
+$$
